@@ -1,3 +1,4 @@
+alert('red');
 /*Learning to hide variables using .gitignore */
 
 // From: https://docs.thecatapi.com
@@ -6,7 +7,7 @@ const url_cat_imgs = config.cat_img;
 const url_cat_facts = config.cat_facts;
 
 const api_key = config.API_KEY;
-alert('red');
+
 /* get cat facts
    datas from:  https://github.com/vadimdemedes/cat-facts/blob/master/cat-facts.json
 */
