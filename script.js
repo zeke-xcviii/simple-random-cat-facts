@@ -30,6 +30,9 @@ cats().catch((error) => {
     alert(error);
 });
 
+/*
+    source for animation from: https://codepen.io/bionik/pen/dzBweB
+*/
 var Animation = function(el) {
     'use strict';
     var a = this;
